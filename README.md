@@ -4,6 +4,13 @@
 ![stars](https://img.shields.io/github/stars/yoyo-nb/Thin-Plate-Spline-Motion-Model.svg?style=flat)
 ![GitHub repo size](https://img.shields.io/github/repo-size/yoyo-nb/Thin-Plate-Spline-Motion-Model.svg)
 
+### Target Image for Digital Talking Avatar
+![Girl-63](https://github.com/AiFahad/TPSMM/assets/142083197/52e877ea-2632-4cb1-a9c1-883fe6cc2e06)       
+
+### Animated video with Lip Synchronization for your desired image with any kind of Talking Portrait
+https://github.com/AiFahad/TPSMM/assets/142083197/de770ef9-6a80-4460-9fb5-ddad5c53fa20
+
+
 Source code of the CVPR'2022 paper "Thin-Plate Spline Motion Model for Image Animation"
 
 [**Paper**](https://arxiv.org/abs/2203.14367) **|** [**Supp**](https://cloud.tsinghua.edu.cn/f/f7b8573bb5b04583949f/?dl=1)
